@@ -1,0 +1,9 @@
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\bin\Debug\UltaWideApp.exe.config
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\bin\Debug\UltaWideApp.exe
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\bin\Debug\UltaWideApp.pdb
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\obj\Debug\UltaWideApp.csprojAssemblyReference.cache
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\obj\Debug\UltaWideApp.Form1.resources
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\obj\Debug\UltaWideApp.Properties.Resources.resources
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\obj\Debug\UltaWideApp.csproj.GenerateResource.cache
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\obj\Debug\UltaWideApp.exe
+C:\Users\Павел\source\repos\UltaWideApp\UltaWideApp\obj\Debug\UltaWideApp.pdb
